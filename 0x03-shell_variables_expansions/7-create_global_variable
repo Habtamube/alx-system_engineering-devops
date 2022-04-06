@@ -1,2 +1,2 @@
 #!/bin/bash
-echo export alias BEST="School"
+echo export BEST="School"
