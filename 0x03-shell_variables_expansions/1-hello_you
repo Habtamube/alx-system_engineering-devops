@@ -1,2 +1,2 @@
 #!/bin/bash
-Cat hello user $USER
+cat hello user $USER
